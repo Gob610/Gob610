@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python (pandas, numpy, matplotlib, pysimpleGUI), SCRUM, UML, PmBok**
 
 - 📫 How to reach me **gonzalo61000@gmail.com**
 
